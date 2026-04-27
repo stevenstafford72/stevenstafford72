@@ -1,16 +1,28 @@
-## Hi there 👋
+# Steven Stafford
 
-<!--
-**stevenstafford72/stevenstafford72** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical Support Specialist | Aspiring Software Engineer
 
-Here are some ideas to get you started:
+I currently work as a Technical Support Specialist, focusing on troubleshooting, debugging, and improving user experience, while also serving as a Scrum Master supporting sprint planning, workflow organization, and task prioritization.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m actively transitioning into software engineering by building real-world applications and strengthening my skills in frontend development, backend systems, and QA automation.
+
+## Projects
+Bae – Couples app (SwiftUI + Supabase)
+## Skills
+
+- JavaScript, React / Next.js
+- SwiftUI
+- Supabase
+- Agile / Scrum Methodology
+- Sprint Planning & Workflow Management
+- Ticket Organization & Prioritization 
+- Playwright, Selenium
+- Manual & Automated Testing
+- Bug Tracking
+- GitHub Actions
+- Postman
+- Jira / Shortcut
+
+## Contacts
+Email: stevenstafford72@gmail.com
+LinkedIn: https://linkedin.com/in/stevenstafford
