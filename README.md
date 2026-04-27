@@ -7,7 +7,9 @@ I currently work as a Technical Support Specialist, focusing on troubleshooting,
 I’m actively transitioning into software engineering by building real-world applications and strengthening my skills in frontend development, backend systems, and QA automation.
 
 ## Projects
-Bae – Couples app (SwiftUI + Supabase)
+### Bae – Couples app (SwiftUI + Supabase)
+### [JC Movement - Nonprofit Daycare (Next.JS Static Site) ](https://jcmovement.org/)
+
 ## Skills
 
 - JavaScript, React / Next.js
